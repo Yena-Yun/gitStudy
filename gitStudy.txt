@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 사용자 A와 B가 작성한 파일입니다
+=======
+사용자 B와 A가 작성한 파일입니다
+>>>>>>> 5191bf80541c043579997c029f96b985ff650046
 1. 계정 정보 등록
 	git config --global user.name '사용자이름'
 	git config --global user.email '사용자이메일'
